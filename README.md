@@ -13,7 +13,7 @@ This is a custom web based guidebook for [TrainCraft Minecraft 1.7](https://gith
 * The main reason I created this was because I was frustrated from current ingame wiki/guidebook which would be usable.
 * This guidebook comes with a few QoL enhancemets and improvements. Currently not hosted anywhere publicly. 
 
-# Official TC Links
+## Official TC Links
 * Main Site and Downloads: [http://www.traincraft-mod.com](http://www.traincraft-mod.com)
 * Brutal's Blog: [http://blog.meansoft.si](http://blog.meansoft.si)
 * TC's Blog: [https://traincraft-mod.blogspot.com](https://traincraft-mod.blogspot.com)
